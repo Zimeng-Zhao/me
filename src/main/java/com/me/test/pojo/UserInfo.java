@@ -19,6 +19,8 @@ import java.sql.Timestamp;
 
 @Entity
 @Table(name="userinfo")
+
+//hahahahaha
 public class UserInfo {
 
     @Id
